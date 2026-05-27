@@ -3,3 +3,16 @@ V1.0.0 - Release
 
 upcoming Release
 - Addition of SQL to the project to make the data permanent
+V2.0.0 - Skipping this Release as V3.0.0 added everything
+
+V3.0.0 - Release
+
+- Added Postgres support for storing tickets, user, operations data
+- Added new IEE engine support for actively learning the resolution and tickets
+- Added support for llm agents for classifying and providing the resolution to the engineer
+- IEE engine has almost unlimited memory context as it's constantly learns and matures for the resolution tips
+    stored constantly on the table
+- Now operations has more visibility and more data control
+- Added JWT for authentication supporting new Login Page
+- Dashboard data update is now fully interactive and user will have large control on the data
+
