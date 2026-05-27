@@ -16,6 +16,7 @@ target/
 # Secret files
 src/main/resources/application.properties
 src/main/resources/application.yml
+src/main/java/com/support_dashboard/TellMe/IEEService/AIClassificationService.java
 src/main/java/com/support_dashboard/TellMe/IEEService/HallucinationDetection.java
 src/main/java/com/support_dashboard/TellMe/IEEService/IEEActiveLearning.java
 
