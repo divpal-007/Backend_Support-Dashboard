@@ -15,8 +15,8 @@ public class HealthService {
     public Map<String,String> getStatus () {
         return Map.of(
                 "status","UP",
-                "service", "TellMe Dashboard",
-                "version","1.0.0"
+                "service", "Operix Dashboard",
+                "version","3.0.0"
         );
     }
 }
